@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Priyanshu Singh 👋
 
-<!--
-**priyanshu10-ui/priyanshu10-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BTech CSE Student
+🌱 Learning Web Development & AI
+🚀 Building Real World Projects
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### KrishiSahayak
+Agriculture assistance platform for farmers.
+
+🔗 Live Demo:
+https://krishisahayak-ebe72.web.app
