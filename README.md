@@ -1,13 +1,14 @@
 # Hi, I'm Priyanshu Singh 👋
 
 💻 BTech CSE Student
-🌱 Learning Web Development & AI
+🌱 Learning Python & AI/ML
 🚀 Building Real World Projects
 
 ## Skills
 - HTML
 - CSS
 - JavaScript
+- Python
 - Firebase
 - Git & GitHub
 
