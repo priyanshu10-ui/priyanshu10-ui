@@ -17,4 +17,4 @@
 Agriculture assistance platform for farmers.
 
 🔗 Live Demo:
-https://krishisahayak-ebe72.web.app
+https://krishak-chi.vercel.app/
