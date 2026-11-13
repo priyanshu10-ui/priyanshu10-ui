@@ -120,9 +120,6 @@ An AI-powered agricultural platform designed to empower farmers with accessible,
   <a href="https://www.linkedin.com/in/priyanshu-singh-70297a324/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://krishak-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
