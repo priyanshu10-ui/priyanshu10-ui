@@ -18,7 +18,6 @@ I'm a **B.Tech Computer Science & Engineering student** passionate about technol
 
 - 🎓 Pursuing B.Tech in Computer Science & Engineering.
 - 🤖 Exploring Artificial Intelligence, Machine Learning and Data Science.
-- 💻 Interested in Software Development and Full-Stack Web Development.
 - 🌱 Currently strengthening my programming and DSA fundamentals.
 - 🌾 Building **Krishi Sahayak**, an AI-powered agricultural assistance platform.
 - 🏆 Hackathon participant and collaborative project builder.
@@ -44,13 +43,13 @@ I'm a **B.Tech Computer Science & Engineering student** passionate about technol
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,python,js" />
 </p>
 
 ### Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
 </p>
 
 ### Developer Tools
